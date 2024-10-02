@@ -1,0 +1,11 @@
+.nav-bar {
+  justify-content: center;
+  display: flex;
+  gap: 30px;
+  font-size: 20px;
+  color: #333;
+}
+ul {
+  color: #333;
+  list-style: none;
+}
